@@ -6,3 +6,5 @@ Fortnite Optimizer's goal is to automate the irritating process of manually opti
 # Usage
 1. Download [Fortnite Optimizer](https://github.com/QuakedK/Fortnite-Optimizer/releases/download/Fortnite/Fortnite-Optimizer-V1.0.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
+
+If you need Help, go to [Fortnite Optimizer Recommendations](https://github.com/QuakedK/Fortnite-Optimizer/blob/main/Fortnite%20Optimizer%20Recommendations.md)
