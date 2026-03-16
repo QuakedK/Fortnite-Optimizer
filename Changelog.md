@@ -39,3 +39,14 @@
 - Removed High Meshes GameUserSettings Option.
 - Removed the auto restart at the end.
 ---
+
+**Fortnite-Optimizer V2.1**
+
+3/15/26 <3
+
+*Added*
+- Added Unknown/non default Fortnite Path errorhandling.
+- Added Manually Input Fortnite Path.
+
+TLDR: Allows the user to attach the correct Fortnite Path!
+---
