@@ -9,3 +9,6 @@ Fortnite Optimizer's goal is to automate the irritating process of manually opti
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
 
 If you need Help, go to [Fortnite Optimizer Recommendations](https://github.com/QuakedK/Fortnite-Optimizer/blob/main/Help/Fortnite%20Optimizer%20Recommendations.md)!
+
+# Other
+Want to close the Epic Games Launcher, and other related processes? Download [Close Epic Games Launcher](https://github.com/QuakedK/Fortnite-Optimizer/blob/main/Downloads/Close%20Epic%20Games%20Launcher.bat) and run as admin everytime you launch your game!
