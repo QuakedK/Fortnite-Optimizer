@@ -15,6 +15,7 @@ echo ╚════════════════════════
 taskkill.exe /F /IM "EpicGamesLauncher.exe" >nul 2>&1
 taskkill.exe /F /IM "EpicOnlineServicesUserHelper.exe" >nul 2>&1
 taskkill.exe /F /IM "FortniteBootstrapper.exe" >nul 2>&1
+taskkill.exe /F /IM "CrashReportClient.exe" >nul 2>&1
 timeout 3 > nul
 exit
 
