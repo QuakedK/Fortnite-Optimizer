@@ -11,3 +11,12 @@ Paste the following ↓
 ```
 -limitclientticks -nosplash -useallavailablecores
 ```
+
+# #4
+The following can be added!
+```
+-fullscreen 
+-d3d11
+-d3d12
+```
+
